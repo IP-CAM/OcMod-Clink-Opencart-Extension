@@ -1,11 +1,11 @@
 # Clink!
 
 ## Description
-The **Clink!** OpenCart extension allows the store staff to receive the details of the just-placed order in a Telegram chatbot.  
+The **Clink!** OpenCart extension allows store staff to receive details of newly placed orders in a Telegram chatbot.  
 Compatible with OpenCart 2.3.x/3.x/4.x versions.
 
 ## Features
-* Sending just-placed order details in a Telegram chatbot.
+* Sending details of just-placed orders in a Telegram chatbot.
 * Multistore and multiuser - link multiple recipient accounts to each store.
 * System files are not modified (OCMOD).
 
