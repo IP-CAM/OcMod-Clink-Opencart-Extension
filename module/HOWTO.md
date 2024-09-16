@@ -8,6 +8,8 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
 * Extensions → Extensions → Modules → /ocmod.space/clink → [Install]→ [Edit] → [Save]
+* [Create](https://core.telegram.org/bots/features#botfather) a new bot.
+* Find out `user_id` using the [@getmyid_bot](https://t.me/getmyid_bot) bot.
 
 ## Uninstall
 * Extensions → Extensions → Modules → /ocmod.space/clink → [Uninstall]
