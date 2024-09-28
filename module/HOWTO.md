@@ -5,21 +5,30 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 
 ## Install
 * Extensions → Installer → [Upload]: `clink.ocmod.zip`
+* {OC4x} Extensions → Installer → /ocmod.space/clink → [Install]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/clink → [Install]→ [Edit] → [Save]
-* [Create](https://core.telegram.org/bots/features#botfather) a new bot.
-* Find out `user_id` using the [@getmyid_bot](https://t.me/getmyid_bot) bot.
+* {OC3x} Dashboard → [Developer Settings] → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Theme → [Refresh]
+* Extensions → Extensions → Modules → /ocmod.space/clink → [Install] → [Edit] → [Save]
 
 ## Uninstall
 * Extensions → Extensions → Modules → /ocmod.space/clink → [Uninstall]
-* Extensions → Installer → Install History → `clink.ocmod.zip` → [Uninstall]
+* {OC3x} Extensions → Installer → Install History → `clink.ocmod.zip` → [Uninstall]
+* {OC4x} Extensions → Installer → /ocmod.space/clink → [Uninstall]
+* {OC4x} Extensions → Installer → /ocmod.space/clink → [Delete]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
+* {OC3x} Dashboard → [Developer Settings] → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Theme → [Refresh]
 
 ## Update
-* Extensions → Installer → Install History → `clink.ocmod.zip` → [Uninstall]
+* {OC3x} Extensions → Installer → Install History → `clink.ocmod.zip` → [Uninstall]
+* {OC4x} Extensions → Installer → /ocmod.space/clink → [Uninstall]
+* {OC4x} Extensions → Installer → /ocmod.space/clink → [Delete]
 * Extensions → Installer → [Upload]: `clink.ocmod.zip`
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
+* {OC3x} Dashboard → [Developer Settings] → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {OC4x} Dashboard → [Developer Settings] → Theme → [Refresh]
 * Extensions → Extensions → Modules → /ocmod.space/clink → [Install] → [Edit] → [Save]

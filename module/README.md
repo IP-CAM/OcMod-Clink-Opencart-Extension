@@ -12,8 +12,11 @@ Compatible with OpenCart 2.3.x/3.x/4.x versions.
 * Multistore and multiuser - link multiple recipient accounts to each store.
 * System files are not modified (OCMOD).
 
+## Restrictions
+The module does not work and is not supported for stores located in the following domains: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
+
 ## Live demo
-* [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/clink) - module settings
+* Clink! [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/clink)
 
 ## License
 * [End-User License Agreement](../EULA.txt)
