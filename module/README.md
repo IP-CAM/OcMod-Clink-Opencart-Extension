@@ -19,7 +19,8 @@ Compatible with OpenCart 2.3.x (PHP 5.x) and 3.x-4.x (PHP ≥ 7.x.).
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
 
 ## Live demo
-[Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/clink)
+[Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/module/clink)
+[Storefront](https://demo.ocmod.space/a)
 
 ## License
 [End-User License Agreement](../EULA.en.txt)
