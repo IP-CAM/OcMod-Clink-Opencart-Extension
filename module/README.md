@@ -13,7 +13,7 @@ Compatible with OpenCart 2.3.x (PHP 5.6), and 3.x/4.x (PHP 7.x and above).
     - product returns;
     - customer inquiries.
 * Supports multiple stores and users – link multiple recipient accounts per store.
-* Does not modify system files (OCMOD).
+* No core file modifications (OCMOD).
 
 ## Restrictions
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
