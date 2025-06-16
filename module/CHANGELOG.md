@@ -1,5 +1,9 @@
 # Change log
 
+## [1.1.4] - 2025.06.16:
+### Fixed
+- Minor compatibility issue.
+
 ## [1.1.3] - 2025.03.10:
 ### Internal
 - File structure changed.
